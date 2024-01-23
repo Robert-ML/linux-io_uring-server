@@ -1,0 +1,3 @@
+HTTP/1.1 200 OK
+
+This is a static file that can be mapped into memory! The http header is necessary so we can send through zero copy.
